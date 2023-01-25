@@ -11,8 +11,6 @@
 
 
 ### Abstract
-
-- 👨‍💻 I'm currently working full-time at **ZRP Aplicações**.
 - 🌱 Learning more about and studying: **Functional Programming, Node.js and AWS**.
 - 💙 Interests: rpg 🎲, power metal 🤘!
 
